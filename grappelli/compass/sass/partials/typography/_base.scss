@@ -4,19 +4,19 @@
 /*  FONT-SIZES & LINE-HEIGHTS
 ------------------------------------------------------------------------------------------------------ */
 
-$grp-font-size-xl: 20px;
-$grp-font-size-l: 13px;
-$grp-font-size-m: 12px;
-$grp-font-size: 12px;
-$grp-font-size-s: 11px;
-$grp-font-size-xs: 10px;
+$grp-font-size-xl: 22px;
+$grp-font-size-l: 16px;
+$grp-font-size-m: 15px;
+$grp-font-size: 14px;
+$grp-font-size-s: 13px;
+$grp-font-size-xs: 12px;
 
-$grp-line-height-xl: 24px;
-$grp-line-height-l: 18px;
-$grp-line-height-m: 16px;
-$grp-line-height: 16px;
-$grp-line-height-s: 14px;
-$grp-line-height-xs: 13px;
+$grp-line-height-xl: 26px;
+$grp-line-height-l: 19px;
+$grp-line-height-m: 18px;
+$grp-line-height: 17px;
+$grp-line-height-s: 16px;
+$grp-line-height-xs: 15px;
 
 .grp-font-size-xl {
 	font-size: $grp-font-size-xl;
@@ -240,7 +240,7 @@ body.grp-doc {
 		margin: 0 5px;
 		padding: 0 10px 20px;
 		font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-		font-size: 11px;
+		font-size: 12px;
 		border: 1px solid #d9d9c3;
 		background: #f2f2e6;
 		@include grp-border-radius($grp-border-radius);

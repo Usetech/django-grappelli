@@ -16,7 +16,7 @@
     float: left;
     clear: both;
     width: 100%;
-    font-size: 11px;
+    font-size: 13px;
     line-height: normal;
     background: transparent;
     ul {
@@ -133,7 +133,7 @@ legend + .grp-row { border-top: none !important; }
 
 /*label {
     display: block; float: left;
-    font-size: 11px; width: 150px !important;
+    font-size: 13px; width: 150px !important;
 }*/
 .required { font-weight: bold; }
 label.msg { display:none; }
@@ -362,7 +362,7 @@ input[name="src"] + div {
     background: #e0f0f5; color: #444;
 }
 #codeN {
-    font-size: 10px; line-height: 11px; font-family: Arial,Helvetica,sans-serif; text-align:center;
+    font-size: 11px; line-height: 13px; font-family: Arial,Helvetica,sans-serif; text-align:center;
     color: #444;
 }
 .legend {

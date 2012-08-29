@@ -191,7 +191,7 @@
     }
     table {
         width: 100%;
-        font-size: 11px;
+        font-size: 13px;
         margin: 0 0 2px;
         border: 0;
         th {
@@ -213,7 +213,7 @@
                 text-align: center;
                 display: block;
                 color: $grp-font-color;
-                font-size: 11px;
+                font-size: 13px;
                 @include border-radius($grp-border-radius);
                 &.ui-state-default {
                     color: $grp-font-color;
@@ -247,7 +247,7 @@
             margin: 3px 0;
             padding: 4px 5px 5px;
             height: 25px;
-            color: #aaa; font-size: 11px;
+            color: #aaa; font-size: 13px;
             border: 1px solid #c7c7c7;
             @include border-radius($grp-border-radius);
             background: transparent;
@@ -329,7 +329,7 @@
     background: #ccc;
     color: #555 !important;
     font-weight: bold;
-    font-size: 11px;
+    font-size: 13px;
     @include border-radius($grp-border-radius);
 }
 button.ui-datepicker-close {
@@ -361,7 +361,7 @@ button.ui-datepicker-close {
             margin: 0 2px 2px 0;
             padding: 2px 10px 1px;
             width: 30px;
-            font-size: 11px;
+            font-size: 13px;
             text-align: center;
             border: 0;
             @include border-radius($grp-border-radius);

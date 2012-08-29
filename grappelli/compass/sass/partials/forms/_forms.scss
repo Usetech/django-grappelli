@@ -93,8 +93,8 @@ select {
     ul.errorlist {
         padding: 3px 0 0;
         color: $grp-font-color-error;
-        font-size: 11px !important;
-        line-height: 14px;
+        font-size: 13px !important;
+        line-height: 15px;
     }
 }
 
@@ -174,7 +174,7 @@ input[type=text].grp-search-field {
     display: inline-block;
     margin: 5px 0 0;
     padding: 0;
-    font-size: 11px;
+    font-size: 13px;
     line-height: 15px;
     font-weight: normal;
     label {
@@ -323,7 +323,7 @@ ul.radiolist.inline, ul.checkboxlist.inline {
         display: block;
         margin: 0;
         padding: 2px 7px;
-        font-size: 11px;
+        font-size: 14px;
         line-height: 13px;
         font-weight: bold;
     }
@@ -396,8 +396,8 @@ ul.errorlist + .selector {
 }
 @mixin errorlist {
     @include legacy-pie-clearfix;
-    font-size: 11px;
-    line-height: 13px;
+    font-size: 13px;
+    line-height: 15px;
     font-weight: bold;
     color: $grp-font-color-error;
 }

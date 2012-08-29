@@ -14,7 +14,7 @@ table {
     td, th {
         vertical-align: text-top;
         padding: 10px;
-        font-size: 11px;
+        font-size: 13px;
         line-height: 15px;
         &.nowrap {
             white-space: nowrap;
@@ -24,8 +24,8 @@ table {
         th {
             vertical-align: top;
             padding: 6px 10px 6px;
-            font-size: 11px;
-            line-height: 12px;
+            font-size: 13px;
+            line-height: 14px;
             color: $grp-font-color-quiet;
             white-space: nowrap;
             border-left: 1px solid $grp-table-border-color;
@@ -56,8 +56,8 @@ table {
         td {
             vertical-align: top;
             padding: 6px 10px 6px;
-            font-size: 11px;
-            line-height: 12px;
+            font-size: 13px;
+            line-height: 14px;
             color: $grp-font-color-quiet;
             white-space: nowrap;
         }
